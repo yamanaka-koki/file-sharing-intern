@@ -1,6 +1,6 @@
 ## 成果発表会レビュー
 
 ## 雇用契約書作成アシスタントボット
-answers_refined.json : 雇用契約書の問い合わせの回答部分
-data.csv : 雇用契約書の問い合わせ　のタイトル、質問、URL
+answers_refined.json : 雇用契約書の問い合わせの回答部分<br>
+data.csv : 雇用契約書の問い合わせ　のタイトル、質問、URL<br>
 scrap.py : データをスクレイピングしたコード
